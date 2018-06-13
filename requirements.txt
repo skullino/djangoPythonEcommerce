@@ -1,3 +1,4 @@
 Django==2.0.6
 pytz==2018.4
 virtualenv==16.0.0
+whitenoise==3.3.1
