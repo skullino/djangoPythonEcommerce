@@ -1,7 +1,7 @@
 # coding=utf-8
 
 from django.test import TestCase, Client
-from django.urls import reverse
+from django.core.urlresolvers import reverse
 
 
 class IndexViewTestCase(TestCase):
